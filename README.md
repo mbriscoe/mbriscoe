@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mbriscoe
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning Unit
+- 🌱 I’m currently learning Unity
 - 💞️ I’m looking to collaborate on beginners projects
 - 📫 How to reach me mark@mcmw.co.uk
 
