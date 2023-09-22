@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mbriscoe
-- 👀 I’m interested in game development
+- 👀 I love software development, as a hobby, and a job!
 - 📫 How to reach me mark@mcmw.co.uk
 
 <!---
